@@ -9,5 +9,3 @@ We're an open-source foundation.
 | ------------- | ------------- |
 | ArnavDevelops  | [Link](https://github.com/ArnavDevelops) |
 | heyirisdotdev  | [Link](https://github.com/heyirisdotdev) |
-| Lua | Basics |
-| HTML | Learning |
